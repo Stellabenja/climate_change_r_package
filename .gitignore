@@ -1,3 +1,6 @@
+# old datasets
+data_old/
+
 # History files
 .Rhistory
 .Rapp.history
